@@ -1,0 +1,16 @@
+.navegador {
+    background-color: blue;
+    display: flex;
+    margin-left: auto;
+}
+
+.navegador .link-navegador {
+    display: block;
+    padding: 8px;
+    color: black;
+    text-decoration: none;
+}
+
+.navegador .link-navegador:hover {
+    background-color: brown;
+}
